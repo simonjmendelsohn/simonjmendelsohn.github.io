@@ -23,6 +23,6 @@ In 2016 I starting college at Yale, where I have pursued a degree in Computer Sc
    lab, I analyze the linguistic abilities of a variety of different neural networks. Most recently, I've been analyzing a [stack-based approach](https://github.com/viking-sudo-rm/StackNN).
 * [Interactive Machines Group](https://interactive-machines.gitlab.io/): I spent some time working in Unity to create an interactive 3-D Model of a robot to simulate it [following an object in space](https://www.youtube.com/embed/5zYM-B6oEP8).  I also spent some time simulating multi-agent environments to [explore the dynamics of pro-social AI](https://github.com/social-dilemma/multiagent).
 
-For more information, feel free to [email](mailto:simonjmendelsohn@gmail.com).
+For more information, my resume can be found [here](assets/resume.pdf).
 
 

@@ -17,7 +17,7 @@ The best way to reach me is by [email](mailto:simonjmendelsohn@gmail.com).
 ### A Bit Longer
 I grew up in Livingston New Jersey, the third of seven children.  When I was in high school, my [cousin](https://www.linkedin.com/in/daniel-dickstein-4b335968/) taught me how to code.  The next summer I was lucky enough to intern at [Supply Clinic](https://www.supplyclinic.com/), where I was able to put my coding to the test, while learning about the startup world.  
 
-In 2016 I starting college at Yale, where I have pursued a degree in Computer Science.  Outside the classroom, I have also been involved in a couple of research groups:
+In 2016 I started college at Yale, where I have pursued a degree in Computer Science.  Outside the classroom, I have also been involved in a couple of research groups:
 
 * [Computational Linguistics at Yale](http://clay.yale.edu/): Inside the CLAY
    lab, I analyze the linguistic abilities of a variety of different neural networks. Most recently, I've been analyzing a [stack-based approach](https://github.com/viking-sudo-rm/StackNN).

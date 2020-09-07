@@ -10,7 +10,7 @@ hide_header: true
 
 ### The Short Version
 
-Hi!  My name is Simon Mendelsohn, and I'm a software engineer at Amazon.  I one-box Newcomb's Problem, and my favorite books are HPMOR by Eliezer Yudkowsky and The Wise Man's Fear by Patrick Rothfuss.  I also like to play soccer and chess, and I believe that seven days without a pun makes one weak.
+Hi!  My name is Simon Mendelsohn, and I'm a software engineer at Amazon.  I one-box Newcomb's Problem, and my favorite books are [HPMOR](http://www.hpmor.com/) by Eliezer Yudkowsky and The Wise Man's Fear by Patrick Rothfuss.  I also like to play soccer and chess, and I believe that seven days without a pun makes one weak.
 
 The best way to reach me is by [email](mailto:simonjmendelsohn@gmail.com).
 
